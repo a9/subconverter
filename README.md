@@ -1,15 +1,17 @@
 # subconverter remote config
 
-## jsdeliver 
+## jsdeliver
 
-```
-https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/file
+```sh
+https://cdn.jsdelivr.net/gh/a9/subconverter@main/file
+
 ```
 
 ## githubusercontent
 
-```
-https://raw.githubusercontent.com//SleepyHeeead/subconverter-config/file
+```sh
+https://raw.githubusercontent.com/a9/subconverter/file
+
 ```
 
 ## ref
