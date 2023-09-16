@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,flowercloud.net
 DOMAIN-SUFFIX,socloud.me 
 DOMAIN-SUFFIX,ytoo.asia 
 DOMAIN-SUFFIX,ytoo.co.uk
+
+# HuggingFace
+DOMAIN,cdn-lfs.huggingface.co
